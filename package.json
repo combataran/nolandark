@@ -1,0 +1,22 @@
+{
+    "name": "nolandark",
+    "displayName": "NolanDark",
+    "description": "A hybrid dark theme",
+    "version": "0.0.1",
+    "publisher": "combataran",
+    "engines": {
+        "vscode": "^1.25.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "NolanDark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/NolanDark-color-theme.json"
+            }
+        ]
+    }
+}
