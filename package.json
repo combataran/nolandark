@@ -4,6 +4,7 @@
     "description": "A hybrid dark theme",
     "version": "0.0.1",
     "publisher": "combataran",
+    "repository":"https://github.com/combataran/nolandark.git",
     "engines": {
         "vscode": "^1.25.0"
     },
