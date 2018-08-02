@@ -2,7 +2,8 @@
 
 A hybrid dark theme for VS Code. Hybrid of what exactly? Take a guess ;D
 
-![Preview](https://raw.githubusercontent.com/combataran/nolandark/blob/master/images/ss.png)
+![Logo](https://github.com/combataran/nolandark/raw/master/images/logo.png)
+![Preview](https://github.com/combataran/nolandark/raw/master/images/ss.png)
 
 [GitHub repository](https://github.com/combataran/nolandark)
 
