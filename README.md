@@ -1,4 +1,4 @@
-# [One Dark Pro]
+# [Nolan Dark]
 
 A hybrid dark theme for VS Code. Hybrid of what exactly? Take a guess ;D
 
