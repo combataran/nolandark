@@ -1,4 +1,4 @@
-# [Nolan Dark]
+# [Nolan Dark](https://marketplace.visualstudio.com/items?itemName=combataran.nolandark)
 
 A hybrid dark theme for VS Code. Hybrid of what exactly? Take a guess ;D
 
